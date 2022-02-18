@@ -26,7 +26,7 @@ int max(int a, int b)
 }
 
 
-//#include<stdio.h>
+\*#include<stdio.h>
 int min(int a , int b);
 int main()
 {
@@ -46,4 +46,4 @@ int min(int a,int b)
 	 res=a;
 	return res;  
 	
-}//
+}*\
